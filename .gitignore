@@ -1,1 +1,9 @@
 target/
+.eclipse
+.settings
+.classpath
+.project
+*.iml
+.DS_Store
+.idea
+derby.log
